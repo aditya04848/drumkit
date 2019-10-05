@@ -1,0 +1,116 @@
+body{
+	background-color: #616161;
+	color: white;
+	text-align: center;
+}
+
+header h1{
+	font-size: 5rem;
+}
+
+.wbutton{
+    width: 8rem;
+    height: 8rem;
+    background-color: white;
+    border:7px solid red;
+    border-radius: 25%;
+    margin: 3rem 1rem;
+    font-size: 4rem;
+    font-weight:900;
+    font-style:bold;
+
+}
+
+.abutton{
+    width: 8rem;
+    height: 8rem;
+    background-color: white;
+    border:7px solid red;
+    border-radius: 25%;
+    margin: 3rem 1rem;
+    font-size: 4rem;
+    font-weight:900;
+    font-style:bold;
+
+}
+
+.sbutton{
+    width: 8rem;
+    height: 8rem;
+    background-color: white;
+    border:7px solid red;
+    border-radius: 25%;
+    margin: 3rem 1rem;
+    font-size: 4rem;
+    font-weight:900;
+    font-style:bold;
+
+}
+
+.dbutton{
+    width: 8rem;
+    height: 8rem;
+    background-color: white;
+    border:7px solid red;
+    border-radius: 25%;
+    margin: 3rem 1rem;
+    font-size: 4rem;
+    font-weight:900;
+    font-style:bold;
+
+}
+
+.jbutton{
+    width: 8rem;
+    height: 8rem;
+    background-color: white;
+    border:7px solid red;
+    border-radius: 25%;
+    margin: 3rem 1rem;
+    font-size: 4rem;
+    font-weight:900;
+    font-style:bold;
+
+}
+
+.kbutton{
+    width: 8rem;
+    height: 8rem;
+    background-color: white;
+    border:7px solid red;
+    border-radius: 25%;
+    margin: 3rem 1rem;
+    font-size: 4rem;
+    font-weight:900;
+    font-style:bold;
+
+}
+
+.lbutton{
+    width: 8rem;
+    height: 8rem;
+    background-color: white;
+    border:7px solid red;
+    border-radius: 25%;
+    margin: 3rem 1rem;
+    font-size: 4rem;
+    font-weight:900;
+    font-style:bold;
+
+}
+
+@media(min-width: 1221px)
+{
+    .set1{
+	    text-align: right;
+    }
+
+    .set2{
+	    text-align:left;
+    }
+}    
+
+footer{
+	font-size: 2rem;
+	font-family: verdana;
+}
